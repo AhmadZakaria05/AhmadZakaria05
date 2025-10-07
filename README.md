@@ -69,6 +69,4 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=AhmadZakaria05.AhmadZakaria05" alt="visitor badge"/>
 </p>
 
-<p align="center">
-  <b>“Code is like humor. When you have to explain it, it’s bad.”</b> 💡
-</p>
+
